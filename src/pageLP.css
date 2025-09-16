@@ -151,8 +151,15 @@ body {
     color: white !important;
     font-weight: 600 !important;
   }
-  
   .submit-btn:hover {
+    background-color: #059669 !important;
+  }
+  #feedbackBtn {
+    background-color: #10b981 !important;
+    color: white !important;
+    font-weight: 600 !important;
+  }
+  #feedbackBtn:hover {
     background-color: #059669 !important;
   }
   
